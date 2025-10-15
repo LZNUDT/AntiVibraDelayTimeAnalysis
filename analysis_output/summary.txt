@@ -1,0 +1,10 @@
+Video: (3)Basler_acA1920-155uc__23551419__20240818_102339824.mp4
+FPS: 200.000
+Frames: 6047
+Axis used: y
+Max lag search (s): 0.100
+Window (s): 4.000
+Detrend MA (s): 0.000
+Delay avg(ms): 29.870
+Delay max(ms): 75.450
+Delay std(ms): 10.666
